@@ -24,7 +24,7 @@ anvil
 
 - Visit [Remix IDE](https://remix.ethereum.org/?nomobileredirect)
 
-- Paste this in a new file
+- Paste this in a new file named `HelloWorld.sol`
 
   ```
   // SPDX-License-Identifier: MIT
@@ -47,7 +47,7 @@ anvil
   }
   ```
 
-- Deploy Voting.sol now
+- Deploy Voting Contract now by pasting this in a new file called `Voting.sol`
 
   ```
   // SPDX-License-Identifier: MIT
