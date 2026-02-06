@@ -1,4 +1,4 @@
-# SAGE gist
+# SAGE GIST
 
 ## Prerequisites
 
@@ -11,6 +11,14 @@
    Foundry comes with a tool called Anvil, which we will use to run a local blockchain network
 
 2. Metamask - [click me to download](https://metamask.io/en-GB/download)
+
+## Configuring local blockchain
+
+Start a local chain using anvil
+
+```
+anvil
+```
 
 ## Getting started with smart contracts
 
