@@ -3,7 +3,7 @@
 ## Prerequisites
 
 1. GIT Bash - [click me to download](https://git-scm.com/install/windows)
-2. Node.js - [click me to download]([https://git-scm.com/install/windows](https://nodejs.org/en/download))
+2. Node.js - [click me to download](https://nodejs.org/en/download)
 
 ## Download Now
 
