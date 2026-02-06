@@ -120,9 +120,11 @@ anvil
   git clone https://github.com/anukulpandey/voting-dapp
   ```
 
-- Open this folder
+- Open this folder in VS Code.
 - Run
 
   ```npm install```
 
   ```npm run dev```
+
+- Replace `0x5FbDB2315678afecb367f032d93F642f64180aa3` with your contract address in `voting-dapp/src/Voting.json`
