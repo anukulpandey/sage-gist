@@ -117,6 +117,7 @@ anvil
 - Download frontend
 
   ```
+  cd ~/Desktop
   git clone https://github.com/anukulpandey/voting-dapp
   ```
 
